@@ -13,4 +13,8 @@ project/boot/
 project/plugins/project/
 
 # Scala-IDE specific
+/target
+/.idea
+/.idea/modules/jokecollector.iml
+/.idea/modules/jokecollector-build.iml
 .idea
